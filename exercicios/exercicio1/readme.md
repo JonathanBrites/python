@@ -1,1 +1,0 @@
-Exercicio para calcular o perimetro e area de um quadrado.

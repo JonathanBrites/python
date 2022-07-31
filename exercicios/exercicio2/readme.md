@@ -1,1 +1,0 @@
-exercicio para calcular a media de notas.
