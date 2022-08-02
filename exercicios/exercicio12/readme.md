@@ -1,0 +1,1 @@
+Exercício proposto para calcular a distancia entre dois pontos através do plano cartesiano.
